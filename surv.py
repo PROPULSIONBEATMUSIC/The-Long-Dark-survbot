@@ -11,7 +11,7 @@ while rtt:
     sleep(1)
     pyautogui.moveTo(289, 785) #--------------survival mode
     pyautogui.click()
-    pyautogui.moveTo(225, 891) #--------------neww
+    pyautogui.moveTo(225, 891) #--------------new
     pyautogui.click()
     pyautogui.moveTo(245, 788) #--------------piligrim
     pyautogui.click(clicks=2, interval=0.2)
